@@ -1,16 +1,19 @@
-# unsung_memer
+# Unsung Memer
 
-A new Flutter project.
+Unsung Memer is an interactive meme app built using Flutter and the Reddit Meme REST API. The app fetches memes from Reddit and displays them in a user-friendly interface. To enhance the user experience, Lottie animations have been integrated throughout the app.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+Unsung Memer is designed to provide a seamless and engaging experience for meme lovers. The app fetches the latest memes from Reddit, ensuring users always have fresh content to enjoy. With smooth Lottie animations, the app feels lively and fun, making meme browsing more enjoyable.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Reddit Meme REST API**: An API used to fetch memes from Reddit.
+- **Lottie Animations**: Used to add engaging animations to the app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## APK Link
+
+You can download the APK file of Unsung Memer from the link below:
+
+[Download Unsung Memer APK](https://github.com/your-username/your-repo/releases/download/v1.0/UnsungMemer.apk)
