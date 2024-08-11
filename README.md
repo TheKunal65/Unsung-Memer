@@ -12,6 +12,17 @@ Unsung Memer is designed to provide a seamless and engaging experience for meme 
 - **Reddit Meme REST API**: An API used to fetch memes from Reddit.
 - **Lottie Animations**: Used to add engaging animations to the app.
 
+## Screenshots
+<div style="display: inline-block;">
+    <img src="https://github.com/TheKunal65/Unsung-Memer/blob/main/screen_shots/SS1.jpg" alt="Screenshot 1" width="150" style="margin-right: 10px;"/>
+    <img src="https://github.com/TheKunal65/Unsung-Memer/blob/main/screen_shots/SS2.jpg" alt="Screenshot 2" width="150" style="margin-right: 10px;"/>
+    <img src="https://github.com/TheKunal65/Unsung-Memer/blob/main/screen_shots/SS3.jpg" alt="Screenshot 3" width="150" style="margin-right: 10px;"/>
+    <img src="https://github.com/TheKunal65/Unsung-Memer/blob/main/screen_shots/SS4.jpg" alt="Screenshot 4" width="150" style="margin-right: 10px;"/>
+    <img src="https://github.com/TheKunal65/Unsung-Memer/blob/main/screen_shots/SS5.jpg" alt="Screenshot 5" width="150"/>
+</div>
+
+
+
 ## APK Link
 
 You can download the APK file of Unsung Memer from the link below:
